@@ -1,21 +1,33 @@
 <h1 align="center">Hi 👋, I'm Goytom Gebreyesus</h1>
 <h3 align="center">Doctoral Researcher in AI & ML: Deep Learning and Reinforcement Learning</h3>
-<p align="right">
-  <img alt="Coding" width="400" src="https://live.staticflickr.com/1834/42271822770_6d2a1d533f_n.jpg">
-  <br>
-  <span style="font-size: 6px;">Image via <a href="https://www.vpnsrus.com" target="_blank">www.vpnsrus.com</a></span>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
+  <!-- Text content on the left -->
+  <div>
+    <p>
+      🔭 I’m currently working on the cutting-edge field of AI and ML, especially Deep Learning and Reinforcement Learning model development and optimization.
+    </p>
+    <p>
+      👯 I’m looking to collaborate on Developing AI Algorithms for Optimization and Reinforcement Learning Applications.
+    </p>
+    <p>
+      📫 How to reach me goytomdesta@gmail.com
+    </p>
+  </div>
+
+  <!-- Image and its credit on the right -->
+  <div style="text-align: right;">
+    <img alt="Coding" width="400" src="https://live.staticflickr.com/1834/42271822770_6d2a1d533f_n.jpg">
+    <div style="font-size: 4px;">
+      Image via <a href="https://www.vpnsrus.com" target="_blank">www.vpnsrus.com</a>
+    </div>
+  </div>
+
+</div>
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goytomdesta&label=Profile%20views&color=0e75b6&style=flat" alt="goytomdesta" /> </p>
-
-- 🔭 I’m currently working on **on the cutting-edge field of AI and ML, especially the Deep Learning and Reinforcement Learning model development and optimization.**
-
-- 👯 I’m looking to collaborate on **Developing AI Algorithms for Optimization and Reinforcement Learning Applications.**
-
-- 📫 How to reach me **goytomdesta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
