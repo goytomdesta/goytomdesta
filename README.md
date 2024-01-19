@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Goytom Gebreyesus</h1>
 <h3 align="center">Doctoral Researcher in AI & ML: Deep Learning and Reinforcement Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1457kbTIWZz6cuNl2Dghur-jgPkvvPilH/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1457kbTIWZz6cuNl2Dghur-jgPkvvPilH/view?usp=sharing](https://i1.wp.com/wiobyrne.com/wp-content/uploads/2018/07/GleamingReflectingCricket.gif?resize=300%2C169&ssl=1)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goytomdesta&label=Profile%20views&color=0e75b6&style=flat" alt="goytomdesta" /> </p>
 
