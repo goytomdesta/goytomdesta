@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Goytom Gebreyesus</h1>
-<h3 align="center">Doctoral Researcher in AI & ML: Deep Learning and Reinforcement Learning</h3>
 <div style="display: flex; align-items: flex-start;">
 
-<div align="center">
-  <img alt="Coding" width="200" src="https://live.staticflickr.com/1834/42271822770_6d2a1d533f_n.jpg">
-  <br>
-  <span style="font-size: small;">Image via <a href="https://www.vpnsrus.com">www.vpnsrus.com</a></span>
-</div>
+<img align="right" alt="Coding" width="200" src="https://live.staticflickr.com/1834/42271822770_6d2a1d533f_n.jpg">
+
 
 
 - 🔭 I’m currently working on **on the cutting-edge field of AI and ML, especially the Deep Learning and Reinforcement Learning model development and optimization.**
