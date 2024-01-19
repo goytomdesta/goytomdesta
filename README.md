@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="200" src="https://live.staticflickr.com/1834/42271822770_6d2a1d533f_n.jpg">
 
-
-
 - 🔭 I’m currently working on **on the cutting-edge field of AI and ML, especially the Deep Learning and Reinforcement Learning model development and optimization.**
 
 - 👯 I’m looking to collaborate on **Developing AI Algorithms for Optimization and Reinforcement Learning Applications.**
